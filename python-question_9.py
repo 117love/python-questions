@@ -6,7 +6,11 @@
 
 numbers = []
 
-# ここにコードを書いてください
+# numbers.append(1)  # 1を追加
+  numbers.append(2)  # 2を追加
+  numbers.append(3)  # 3を追加
+
+  print(numbers)
 
 
 # 出力例: [1, 2, 3]
